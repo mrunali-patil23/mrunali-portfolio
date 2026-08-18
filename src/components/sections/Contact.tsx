@@ -20,7 +20,7 @@ export default function Contact() {
             </p>
             <div className="space-y-3">
               <ContactLink icon={<EmailIcon />} label="Email" value={portfolio.email} href={`mailto:${portfolio.email}`} />
-              <ContactLink icon={<LinkedinIcon />} label="LinkedIn" value="mrunali-patil-39bb3730a" href={portfolio.linkedin} />
+              <ContactLink icon={<LinkedinIcon />} label="LinkedIn" value="mrunalipatil23" href={portfolio.linkedin} />
               <ContactLink icon={<GithubIcon />} label="GitHub" value="mrunali-patil23" href={portfolio.github} />
             </div>
           </div>

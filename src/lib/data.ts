@@ -7,7 +7,7 @@ export const portfolio = {
   location: "Panvel, Maharashtra, India",
   email: "mrunalip2305@gmail.com",
   github: "https://github.com/mrunali-patil23",
-  linkedin: "https://www.linkedin.com/in/mrunali-patil-39bb3730a/",
+  linkedin: "https://www.linkedin.com/in/mrunalipatil23/",
 
   about: `I'm a 2026 B.Sc. IT graduate who has spent the past two years building full-stack products rather than just studying them. My focus is on shipping AI-integrated web applications, the kind that wire together real APIs, handle async state across distributed services, and stay maintainable when complexity grows.
 
@@ -26,9 +26,9 @@ I've contributed to open-source projects through structured PR workflows, and I 
 
   experience: [
     {
-      role: "Web Developer",
+      role: "Open Source Contributor",
       org: "Nexus Spring of Code (NSoC)",
-      type: "Open Source Contributor",
+      type: "Open Source Contribution",
       period: "Apr 2026 – Present",
       location: "Remote",
       bullets: [
@@ -38,9 +38,9 @@ I've contributed to open-source projects through structured PR workflows, and I 
       ],
     },
     {
-      role: "Web Developer",
+      role: "Open Source Contributor",
       org: "Social Winter of Code (SWoC)",
-      type: "Open Source Contributor",
+      type: "Open Source Contribution",
       period: "Jan 2026 – Mar 2026",
       location: "Remote",
       bullets: [
@@ -156,7 +156,6 @@ I've contributed to open-source projects through structured PR workflows, and I 
 
   achievements: [
     "Participated in NIRMAN Hackathon 2026 — 48-hour innovation challenge, Amity University Mumbai",
-    "Selected for Enterprising Technopreneur Fellowship by HCDS Technologies",
     "Attended AWS Summit India — cloud computing industry exposure",
     "Competed in ESTIC 2025 Quiz (DST, Government of India) and TATA Crucible Campus Quiz",
     "Member, Google Women Techmakers & Google Developer Group (GDG)",

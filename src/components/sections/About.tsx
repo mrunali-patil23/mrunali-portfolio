@@ -72,7 +72,6 @@ export default function About() {
                 {[
                   "Google Women Techmakers — Member",
                   "Google Developer Group (GDG) — Member",
-                  "Enterprising Technopreneur Fellow — HCDS Technologies",
                   "NIRMAN Hackathon 2026 Participant",
                 ].map((item) => (
                   <div key={item} className="flex items-start gap-2 text-xs text-[#6B4A57] dark:text-[#F9A8D4]/80">
